@@ -1,2 +1,3 @@
 # main.py
-feat: Add initial script for project setup
+# main.py
+print("Project setup complete. Awaiting further instructions.")
